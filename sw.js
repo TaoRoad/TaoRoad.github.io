@@ -1,6 +1,6 @@
-self.importScripts('/TaoRoad/assets/js/data/swcache.js');
+self.importScripts('/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20220411.2214';
+const cacheName = 'chirpy-20220411.2240';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
