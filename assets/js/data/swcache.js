@@ -29,7 +29,7 @@ const resource = [
     '/assets/img/favicons/favicon-16x16.png',
     '/assets/img/favicons/favicon-32x32.png',
     '/assets/img/favicons/favicon.ico',
-    '/assets/img/favicons/mstile-150x150.png',
+    '/assets/img/favicons/mstile-150x150.jpg',
     '/assets/js/dist/categories.min.js',
     '/assets/js/dist/commons.min.js',
     '/assets/js/dist/home.min.js',
@@ -47,7 +47,7 @@ const allowedDomains = [
   'localhost:4000',
 
   
-    'raw.githubusercontent.com',
+    'github.com',
   
 
   'fonts.gstatic.com',
