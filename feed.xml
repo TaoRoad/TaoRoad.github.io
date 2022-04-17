@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-04-17T18:19:57+08:00</updated>
+  <updated>2022-04-17T18:49:06+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>引言</title>
-    <link href="http://localhost:4000/posts/%E5%BC%95%E8%A8%80/" rel="alternate" type="text/html" title="引言" />
+    <title>Einleitung</title>
+    <link href="http://localhost:4000/posts/%E5%BC%95%E8%A8%80/" rel="alternate" type="text/html" title="Einleitung" />
     <published>2022-04-17T16:19:00+08:00</published>
   
     <updated>2022-04-17T16:19:00+08:00</updated>
