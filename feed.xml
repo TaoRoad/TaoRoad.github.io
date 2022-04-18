@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-04-17T22:32:06+08:00</updated>
+  <updated>2022-04-18T23:19:41+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-4-17</title>
+    <link href="http://localhost:4000/posts/Log2022-4-18/" rel="alternate" type="text/html" title="Log2022-4-17" />
+    <published>2022-04-17T16:19:00+08:00</published>
+  
+    <updated>2022-04-17T16:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-4-18/</id>
+    <content src="http://localhost:4000/posts/Log2022-4-18/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-4-17" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-4-17
+今日起床时间6：30，普通平常的一天
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -148,6 +186,66 @@
 以时间顺序为基础记录问题，描述使用陈述性的语言
 
 ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>引言1</title>
+    <link href="http://localhost:4000/posts/%E5%BC%95%E8%A8%801/" rel="alternate" type="text/html" title="引言1" />
+    <published>2019-08-08T11:33:00+08:00</published>
+  
+    <updated>2019-08-08T11:33:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E5%BC%95%E8%A8%801/</id>
+    <content src="http://localhost:4000/posts/%E5%BC%95%E8%A8%801/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="启蒙" />
+    
+    <category term="Demo" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
+
+Titles
+
+H1 - heading
+
+H2 - heading
+
+H3 - heading
+
+H4 - heading
+
+
+
+Paragraph
+
+I wandered lonely as a cloud
+
+That floats on high o’er vales and hills,
+
+When all at once I saw a crowd,
+
+A host, of golden daffodils;
+
+Beside the lake, beneath the t...
     </summary>
   
 
