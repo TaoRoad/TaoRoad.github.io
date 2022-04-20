@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Log2022-4-20",
+    "url": "/posts/Log2022-4-20/",
+    "categories": "Log, Log2022-4-20",
+    "tags": "Log",
+    "date": "2022-04-20 16:19:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Log2022-4-20今日番茄钟记录1个，早上6点起床，维护文档项3项，上传文档一项，对比选取文档。昨天1点多睡，5点多起床，今天一天都没有精神。还是需要睡好啊。今天11点左右睡觉  问题1番茄数量问题，期待番茄数量3到4个的。今日虽有这么多个番茄钟，却没有能做到记录。  问题2番茄内容问题，没有很清楚自己干了什么事情。可以考虑以名词来记录，动词来进行描述  问题3没有尽力去想要自己想要的东西。迟滞了，  肯定：是啊，提部不提出是我的问题，做不做是他人的事情，今日能提出，挺好的。      否点：逾越自己职责的事情    今日开启古典的《超级个体》课程企业体系：行业-企业-职业个人体系：圈子-能力-个性"
+  },
+  
+  {
     "title": "Log2022-4-19",
     "url": "/posts/Log2022-4-19/",
     "categories": "Log, Log2022-4-19",
@@ -58,21 +73,6 @@
 
 
     "snippet": "引言写博客之前，我在想，为什么要写博客，与众多写博客着一样，经历过jekyll和hexo之间的纠结，最终还是选择了jekyll来进行博客的写作。也被jekyll的部署弄的焦头烂额。（最终还是请了大神来帮忙解决的/(ㄒoㄒ)/~~ ）写博客是为了记录和总结（或者说是对人生的一个交代）：内容  日记（每天写条日记，即使数字不多，也是对自己一天的总结）  总结（知识总结，闭环与非闭环）  代办事项（需要去做的事情）《千面英雄》神话学大师约瑟夫.坎贝尔，在游历世界收集多个地方的神话故事，发现了许多地方神话里英雄的成长共性，书写了一本《千面英雄》启蒙，启程和回归。  启蒙：既是念头，做的每一件事情都是由念头开始的  启程：开了自己的成长方式  回归：蜕变成功，胜利的号角日志标准（严格要求自己）以时间顺序为基础记录问题，描述使用陈述性的语言记录问题（分析问题）：进步空间，方法。肯定自己，否定自己。"
-  },
-  
-  {
-    "title": "引言1",
-    "url": "/posts/%E5%BC%95%E8%A8%801/",
-    "categories": "启蒙, Demo",
-    "tags": "typography",
-    "date": "2019-08-08 11:33:00 +0800",
-    
-
-
-
-
-
-    "snippet": "This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.TitlesH1 - headingH2 - headingH3 - headingH4 - headingParagraphI wandered lonely as a cloudThat floats on high o’er vales and hills,When all at once I saw a crowd,A host, of golden daffodils;Beside the lake, beneath the trees,Fluttering and dancing in the breeze.ListsOrdered list  Firstly  Secondly  ThirdlyUnordered list  Chapter          Section                  Paragraph                    Task list  TODO  Completed  Defeat COVID-19          Vaccine production      Economic recovery      People smile again      Description list  Sun  the star around which the earth orbits  Moon  the natural satellite of the earth, visible by reflected light from the sunBlock Quote  This line shows the block quote.Prompts  An example showing the tip type prompt.  An example showing the info type prompt.  An example showing the warning type prompt.  An example showing the danger type prompt.Tables            Company      Contact      Country                  Alfreds Futterkiste      Maria Anders      Germany              Island Trading      Helen Bennett      UK              Magazzini Alimentari Riuniti      Giovanni Rovelli      Italy      Linkshttp://127.0.0.1:4000FootnoteClick the hook will locate the footnote1, and here is another footnote2.Images  Default (with caption)Full screen width and center alignment  Shadowshadow effect (visible in light mode)  Left aligned      Float to left    “A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space.”        Float to right    “A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space.”  Mermaid SVG gantt  title  Adding GANTT diagram functionality to mermaid  apple :a, 2017-07-20, 1w  banana :crit, b, 2017-07-23, 1d  cherry :active, c, after b a, 1dMathematicsThe mathematics powered by MathJax:\\[\\sum_{n=1}^\\infty 1/n^2 = \\frac{\\pi^2}{6}\\]When $a \\ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are\\[x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\]Inline codeThis is an example of Inline Code.FilepathHere is the /path/to/the/file.extend.Code blockCommonThis is a common code snippet, without syntax highlight and line number.Specific LanguagesConsole$ env |grep SHELLSHELL=/usr/local/bin/bashPYENV_SHELL=bashShellif [ $? -ne 0 ]; then    echo \"The command was not successful.\";    #do the needful / exitfi;Specific filename@import  \"colors/light-typography\",  \"colors/dark-typography\"Reverse Footnote            The footnote source &#8617;              The 2nd footnote source &#8617;      "
   }
   
 ]

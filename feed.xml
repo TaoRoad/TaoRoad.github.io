@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-04-20T00:12:01+08:00</updated>
+  <updated>2022-04-20T22:56:32+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,79 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-4-20</title>
+    <link href="http://localhost:4000/posts/Log2022-4-20/" rel="alternate" type="text/html" title="Log2022-4-20" />
+    <published>2022-04-20T16:19:00+08:00</published>
+  
+    <updated>2022-04-20T16:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-4-20/</id>
+    <content src="http://localhost:4000/posts/Log2022-4-20/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-4-20" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-4-20
+
+今日番茄钟记录1个，早上6点起床，维护文档项3项，上传文档一项，对比选取文档。
+
+昨天1点多睡，5点多起床，今天一天都没有精神。还是需要睡好啊。今天11点左右睡觉
+
+
+  问题1
+
+
+番茄数量问题，期待番茄数量3到4个的。今日虽有这么多个番茄钟，却没有能做到记录。
+
+
+  问题2
+
+
+番茄内容问题，没有很清楚自己干了什么事情。
+
+可以考虑以名词来记录，动词来进行描述
+
+
+  问题3
+
+
+没有尽力去想要自己想要的东西。迟滞了，
+
+
+  肯定：是啊，提部不提出是我的问题，做不做是他人的事情，今日能提出，挺好的。
+  
+    否点：逾越自己职责的事情
+  
+  今日开启古典的《超级个体》课程
+
+
+企业体系：行业-企业-职业
+
+个人体系：圈子-能力-个性
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -276,66 +349,6 @@
 以时间顺序为基础记录问题，描述使用陈述性的语言
 
 ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>引言1</title>
-    <link href="http://localhost:4000/posts/%E5%BC%95%E8%A8%801/" rel="alternate" type="text/html" title="引言1" />
-    <published>2019-08-08T11:33:00+08:00</published>
-  
-    <updated>2019-08-08T11:33:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/%E5%BC%95%E8%A8%801/</id>
-    <content src="http://localhost:4000/posts/%E5%BC%95%E8%A8%801/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="启蒙" />
-    
-    <category term="Demo" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
-
-Titles
-
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-
-
-Paragraph
-
-I wandered lonely as a cloud
-
-That floats on high o’er vales and hills,
-
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the t...
     </summary>
   
 

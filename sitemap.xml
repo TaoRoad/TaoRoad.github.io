@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/posts/%E5%BC%95%E8%A8%801/</loc>
-<lastmod>2019-08-08T11:33:00+08:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/posts/Einleitung/</loc>
 <lastmod>2022-04-17T16:19:00+08:00</lastmod>
 </url>
@@ -21,29 +17,30 @@
 <lastmod>2022-04-19T16:19:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/posts/Log2022-4-20/</loc>
+<lastmod>2022-04-20T16:19:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/categories/</loc>
-<lastmod>2022-04-20T00:12:01+08:00</lastmod>
+<lastmod>2022-04-20T22:56:32+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2022-04-20T00:12:01+08:00</lastmod>
+<lastmod>2022-04-20T22:56:32+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/archives/</loc>
-<lastmod>2022-04-20T00:12:01+08:00</lastmod>
+<lastmod>2022-04-20T22:56:32+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2022-04-20T00:12:01+08:00</lastmod>
+<lastmod>2022-04-20T22:56:32+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2019-08-08-text-and-typography.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/typography/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/%E5%BC%95%E8%A8%80/</loc>
@@ -53,9 +50,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/%E5%90%AF%E8%92%99/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/demo/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/einleitung/</loc>
@@ -71,5 +65,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/log2022-4-19/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/log2022-4-20/</loc>
 </url>
 </urlset>
