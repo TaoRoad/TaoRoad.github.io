@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-04-20T22:56:32+08:00</updated>
+  <updated>2022-04-21T22:40:17+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,57 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-4-21</title>
+    <link href="http://localhost:4000/posts/Log2022-4-21/" rel="alternate" type="text/html" title="Log2022-4-21" />
+    <published>2022-04-21T16:19:00+08:00</published>
+  
+    <updated>2022-04-21T16:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-4-21/</id>
+    <content src="http://localhost:4000/posts/Log2022-4-21/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-4-21" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-4-20
+
+今日完成番茄钟两个，
+
+理论与实践是有隔阂的，需要把实践是可以超过理论的，
+
+管的事情有点多了呀。都没有尽心做自己的事情。
+
+忙着别人的事情时间比自己的事情还多，事情又怎么能完成呢。
+
+人在这个是要清楚什么是自己做的事情，拒绝无关自己的事情。学会拒绝。
+
+放开手脚吧，不要被一些自己心里的东西给限制住了
+
+既要大开大合，也要进行收束和总结，这样的话既可以迈大步，又可以确保自己的步子不会出错
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -285,70 +336,6 @@
   
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>引言</title>
-    <link href="http://localhost:4000/posts/Einleitung/" rel="alternate" type="text/html" title="引言" />
-    <published>2022-04-17T16:19:00+08:00</published>
-  
-    <updated>2022-04-17T16:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Einleitung/</id>
-    <content src="http://localhost:4000/posts/Einleitung/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="启蒙" />
-    
-    <category term="Einleitung" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      引言
-
-写博客之前，我在想，为什么要写博客，与众多写博客着一样，经历过jekyll和hexo之间的纠结，最终还是选择了jekyll来进行博客的写作。也被jekyll的部署弄的焦头烂额。（最终还是请了大神来帮忙解决的/(ㄒoㄒ)/~~ ）
-
-写博客是为了记录和总结（或者说是对人生的一个交代）：
-
-内容
-
-
-  日记（每天写条日记，即使数字不多，也是对自己一天的总结）
-  总结（知识总结，闭环与非闭环）
-  代办事项（需要去做的事情）
-
-
-《千面英雄》
-
-神话学大师约瑟夫.坎贝尔，在游历世界收集多个地方的神话故事，发现了许多地方神话里英雄的成长共性，书写了一本《千面英雄》启蒙，启程和回归。
-
-
-  启蒙：既是念头，做的每一件事情都是由念头开始的
-  启程：开了自己的成长方式
-  回归：蜕变成功，胜利的号角
-
-
-日志标准（严格要求自己）
-
-以时间顺序为基础记录问题，描述使用陈述性的语言
-
-...
     </summary>
   
 
