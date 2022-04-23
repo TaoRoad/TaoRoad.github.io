@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-04-21T22:40:17+08:00</updated>
+  <updated>2022-04-23T22:25:18+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,57 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-4-23</title>
+    <link href="http://localhost:4000/posts/Log2022-4-23/" rel="alternate" type="text/html" title="Log2022-4-23" />
+    <published>2022-04-22T16:19:00+08:00</published>
+  
+    <updated>2022-04-22T16:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-4-23/</id>
+    <content src="http://localhost:4000/posts/Log2022-4-23/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-4-23" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-4-20
+
+局限：发现一些自身的局限。
+
+番茄钟：没有很清楚自己干了什么事情，连25分钟的印象都没有
+
+人的一生最重要的是整理和整合。
+
+效率和结果导向。
+
+今天，清楚了一些东西了。找到了自己的东西
+
+这几天都在写文档，写了4千多字，唉，看看能否整理成ppt
+
+.w.
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -265,77 +316,6 @@
 路是需要一步一步走的，若没有一步一步走就会花费更多的时间和精力去处理问题
 
 首先是问题项不可细分，结论需要看得懂两个东西。结论可以是：必须，不能，推荐等东西推动的。这才是个结论的样子。而且结论面向的是什么人。有不同的结论：有人只关注可以做什么，需要避开那些坑；有的人却关注为什么，找到原因去...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-4-17</title>
-    <link href="http://localhost:4000/posts/Log2022-4-17/" rel="alternate" type="text/html" title="Log2022-4-17" />
-    <published>2022-04-17T16:19:00+08:00</published>
-  
-    <updated>2022-04-17T16:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-4-17/</id>
-    <content src="http://localhost:4000/posts/Log2022-4-17/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-4-17" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-4-17
-今日睡觉时间为凌晨5点，睡至10点起床躺床看手机。吃完午饭继续看手机。下午四点打开jekyll，发现本地链接无法启用中文路径作为访问路径。走路看手机，吃饭看手机。吃饭加入新调料。回来写周报和进度。洗澡热水澡。
-
-
-  问题1
-
-
-睡觉时间：凌晨5点睡觉，有心结未解，没能很好的令行禁止。很迷惘啊
-
-
-  问题2
-
-
-躺床上一天：刷手机。没有迈开第一步。还是很迷惘啊。
-
-
-  问题3
-
-
-走路吃饭看手机。对手机依赖太强了。还是因为迷惘啊。
-
-
-  解决方法
-
-
-我自己是有想要的目标的，承认自己的不足，不能一步到位。
-
-
-  
-    否定：人太迷惘，没有执行力
-  
-  
-    肯定：今天很好的洗了一个澡，而且开始第一步的jekyll日志写作
-  
-
-
     </summary>
   
 
