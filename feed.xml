@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-02T23:49:45+08:00</updated>
+  <updated>2022-05-03T23:47:59+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,82 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-3</title>
+    <link href="http://localhost:4000/posts/Log2022-5-3/" rel="alternate" type="text/html" title="Log2022-05-3" />
+    <published>2022-05-03T10:19:00+08:00</published>
+  
+    <updated>2022-05-03T10:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-3/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-3/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-3" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-3
+
+今天感觉做了什么，好像又没有做什么东西.
+
+明天就要上班了。
+
+##写了个xmind图
+
+规划
+坐标系
+职业坐标系
+
+  行业
+    
+      计算机软件
+      大数据
+        
+          互联网
+        
+      
+    
+  
+  企业
+    
+      1.首选大企业
+    
+  
+  职业
+    
+      软件测试工程师
+        
+          性能入手
+          辅一些自动化设计
+            
+              思路
+                
+                  首先：简单的写一些代码，执行一些东西
+                    个人坐标系
+                  
+                
+ ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -237,57 +313,6 @@
 这几天都在写文档，写了4千多字，唉，看看能否整理成ppt
 
 .w.
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-4-21</title>
-    <link href="http://localhost:4000/posts/Log2022-4-21/" rel="alternate" type="text/html" title="Log2022-4-21" />
-    <published>2022-04-21T16:19:00+08:00</published>
-  
-    <updated>2022-04-21T16:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-4-21/</id>
-    <content src="http://localhost:4000/posts/Log2022-4-21/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-4-21" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-4-20
-
-今日完成番茄钟两个，
-
-理论与实践是有隔阂的，需要把实践是可以超过理论的，
-
-管的事情有点多了呀。都没有尽心做自己的事情。
-
-忙着别人的事情时间比自己的事情还多，事情又怎么能完成呢。
-
-人在这个是要清楚什么是自己做的事情，拒绝无关自己的事情。学会拒绝。
-
-放开手脚吧，不要被一些自己心里的东西给限制住了
-
-既要大开大合，也要进行收束和总结，这样的话既可以迈大步，又可以确保自己的步子不会出错
 
     </summary>
   
