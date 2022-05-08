@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-06T22:19:32+08:00</updated>
+  <updated>2022-05-09T07:52:23+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-8</title>
+    <link href="http://localhost:4000/posts/Log2022-5-8/" rel="alternate" type="text/html" title="Log2022-05-8" />
+    <published>2022-05-08T10:19:00+08:00</published>
+  
+    <updated>2022-05-08T10:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-8/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-8/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-8" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-8
+
+我该和你说些什么呢？
+
+加油？
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -254,73 +295,6 @@
                   
                 
  ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-2</title>
-    <link href="http://localhost:4000/posts/Log2022-5-2/" rel="alternate" type="text/html" title="Log2022-05-2" />
-    <published>2022-05-02T10:19:00+08:00</published>
-  
-    <updated>2022-05-02T10:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-2/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-2/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-2" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-2
-
-时间好快啊。昨天搬了一天家。
-
-今天和同事一起去吃早茶。
-
-一天好快啊，一周好快啊，一个月好快啊。
-
-没有必要过分去迎合别人的，我也有自己的规划。
-
-今天在boss直聘中看了一些行业和职位。
-
-学习了沟通的过程：
-
-##职场中，如何沟通？
-
-如何和下级沟通，如何和上级沟通，如何和外部沟通。
-
-
-  强共情：迅速提高亲和力
-  强准备：消除沟通中的风险
-  强反馈：
-
-
-强共情=镜像+同频+倾听
-
-问题1：作为一名医生，外面排起长队，仅能为每一位患者看病3分钟时间？该如何利用三分钟时间看完且进行有效沟通。
-面临这样一个问题：1.看病时间短，病人不信任。2.若是病人强询问，可能会影响自己的效率
-答：他们外面好多人，咱们一定要配合好。——他们，咱们。
-
-总结：所谓强共情就是抓住对方情绪，然后进行沟通。
-
     </summary>
   
 
