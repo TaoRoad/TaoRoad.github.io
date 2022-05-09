@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-09T07:55:48+08:00</updated>
+  <updated>2022-05-09T21:32:50+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,57 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-9</title>
+    <link href="http://localhost:4000/posts/Log2022-5-9/" rel="alternate" type="text/html" title="Log2022-05-9" />
+    <published>2022-05-09T10:19:00+08:00</published>
+  
+    <updated>2022-05-09T10:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-9/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-9/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-9" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-9
+
+留个伤疤，人性本恶。
+
+在之前的公寓住的时候，首先是不小心在床上喝粥把床垫弄脏了。
+
+要搬家之前和房东说明情况，结果需要我赔付800，后来花200叫家政过来清洗，结果说是有异味。味道其实还可以接受的。
+
+还不愿意接受任何的处理。
+
+前前后后花了1000多，包括来回打车的钱。
+
+现在，我想，我还是好人。
+
+我有一个梦想，需要尽力而为了。
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -221,82 +272,6 @@
 
 每2个小时都登录一次，我都知道，我不知道的是你怎么想的。
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-3</title>
-    <link href="http://localhost:4000/posts/Log2022-5-3/" rel="alternate" type="text/html" title="Log2022-05-3" />
-    <published>2022-05-03T10:19:00+08:00</published>
-  
-    <updated>2022-05-03T10:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-3/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-3/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-3" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-3
-
-今天感觉做了什么，好像又没有做什么东西.
-
-明天就要上班了。
-
-##写了个xmind图
-
-规划
-坐标系
-职业坐标系
-
-  行业
-    
-      计算机软件
-      大数据
-        
-          互联网
-        
-      
-    
-  
-  企业
-    
-      1.首选大企业
-    
-  
-  职业
-    
-      软件测试工程师
-        
-          性能入手
-          辅一些自动化设计
-            
-              思路
-                
-                  首先：简单的写一些代码，执行一些东西
-                    个人坐标系
-                  
-                
- ...
     </summary>
   
 
