@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-09T21:32:50+08:00</updated>
+  <updated>2022-05-10T07:17:32+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,53 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-10</title>
+    <link href="http://localhost:4000/posts/Log2022-5-10/" rel="alternate" type="text/html" title="Log2022-05-10" />
+    <published>2022-05-10T01:19:00+08:00</published>
+  
+    <updated>2022-05-10T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-10/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-10/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-10" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-10
+
+昨天中午在公司打了乒乓球，发现打球有两种。
+
+一种是处于自己掌控之内的球，一种是掌控之外的球。
+
+掌控之外的球有点难打啊，但是掌控之外的球才是我想要打的球不是吗？
+
+自己对时间的把控也多了点东西。
+
+安啦安啦
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -212,65 +259,6 @@
 我不知道说什么，今天时间过的很快。
 
 想你，但是可能不会找你了。
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-4</title>
-    <link href="http://localhost:4000/posts/Log2022-5-4/" rel="alternate" type="text/html" title="Log2022-05-4" />
-    <published>2022-05-04T10:19:00+08:00</published>
-  
-    <updated>2022-05-04T10:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-4/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-4/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-4" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-4
-
-今天感觉做了什么，好像又没有做什么东西.
-
-明天就要上班了。
-
-##理论不等于实际
-
-理论不等于实际：理论上的东西与实际是有区别的
-
-首先，发现，想要实现理论上的值，需要自己尽全力去，才有可能实现该种效果。
-
-碎片时间
-
-以前，一直被碎片时间困扰。获取不了知识，没有什么意义。
-
-所以，可以在碎片时间在（圈子，一些东西上面做目录），整理目录出来。而不是详细内容。
-
-其次，可以在碎片时间做减法。知乎收藏的东西都落灰了，可以在整理目录的时候顺便做做减法。
-
-今天在公司上了一天班。昨天卸载了王者了。
-
-每2个小时都登录一次，我都知道，我不知道的是你怎么想的。
 
     </summary>
   
