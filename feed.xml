@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-10T23:36:56+08:00</updated>
+  <updated>2022-05-11T23:19:32+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-11</title>
+    <link href="http://localhost:4000/posts/Log2022-5-11/" rel="alternate" type="text/html" title="Log2022-05-11" />
+    <published>2022-05-11T01:19:00+08:00</published>
+  
+    <updated>2022-05-11T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-11/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-11/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-11" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-11
+
+没有紧迫感啊，我觉得不行。
+
+今天有紧迫感，所以专注了很久，确实有产出效果。
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -200,65 +241,6 @@
 加油？
 
 嗯，加油
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-6</title>
-    <link href="http://localhost:4000/posts/Log2022-5-6/" rel="alternate" type="text/html" title="Log2022-05-6" />
-    <published>2022-05-06T10:19:00+08:00</published>
-  
-    <updated>2022-05-06T10:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-6/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-6/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-6" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-6
-
-感觉被淹没在生活中了。
-
-我感觉我需要一种场，不管是什么，都需要保留着自己的清醒状态。
-
-被迫关注别人，受他人的影响有点严重
-
-他人影响自己的因素有：
-
-
-  
-    他人问问题的时候，而自己在做自己的事情，现在虽然没有学会拒绝，但是学会了，让别人先整理好东西给我看，而不是自己去提取东西。自己去判断。
-  
-  
-    被迫处于一种环境中，比如领导讲话，而与我无关，或者我不想去听着，或者我需要听到东西可以有用，而不是发呆，无所事事。
-  
-  
-    其实都是一个人不是吗，要学会孤独啊，一个人挺好。
-  
-
-
-今天，感觉挺忙的，但是却又不知道忙些什么，这样不是我想要的，我需要记录，好好感受到时间的流逝，才能更加的珍惜时间，不是吗？
 
     </summary>
   
