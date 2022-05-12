@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-11T23:19:32+08:00</updated>
+  <updated>2022-05-12T23:16:48+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-12</title>
+    <link href="http://localhost:4000/posts/Log2022-5-12/" rel="alternate" type="text/html" title="Log2022-05-12" />
+    <published>2022-05-12T01:19:00+08:00</published>
+  
+    <updated>2022-05-12T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-12/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-12/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-12" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-12
+
+训练需要提上日程了。
+
+什么是最好的状态，清空不需要的东西。
+
+时光洪流
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -198,49 +241,6 @@
 现在，我想，我还是好人。
 
 我有一个梦想，需要尽力而为了。
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-8</title>
-    <link href="http://localhost:4000/posts/Log2022-5-8/" rel="alternate" type="text/html" title="Log2022-05-8" />
-    <published>2022-05-08T10:19:00+08:00</published>
-  
-    <updated>2022-05-08T10:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-8/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-8/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-8" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-8
-
-我该和你说些什么呢？
-
-加油？
-
-嗯，加油
 
     </summary>
   
