@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-15T21:48:39+08:00</updated>
+  <updated>2022-05-18T22:27:57+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,103 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-18</title>
+    <link href="http://localhost:4000/posts/Log2022-5-18/" rel="alternate" type="text/html" title="Log2022-05-18" />
+    <published>2022-05-18T01:19:00+08:00</published>
+  
+    <updated>2022-05-18T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-18/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-18/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-18" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-18
+
+悲哀的是我还没有变，庆幸的是我还没有变。
+
+把自己锁在屋里，看着可望不可及的星星，我常常幻想着。遨游于星空之中，或许有侏罗纪，或许有神奇的物种和现象。
+
+随着年龄的增长，屋外的青草地，已经长了又枯，枯了又长。知了已经叫了几十个春秋，从惊奇到习以为常。大人老了，小孩长大了。可是窗外，他还没有去涉足。
+
+他明白，想要的东西不在屋子里，在屋子外面。可是屋子里面距离着虚幻的天空仅仅是躺下。而外面的看不到星空，看不到想要的东西。
+
+终有一天，房子已经没有之前那么安全，终究需要向外踏出去了。他变了，他也没有变。
+
+在外面，他看到了形形色色的世界，形形色色的人。
+
+见过庸禄的人，见过智慧的人，见过心计之人，见过很多很多。
+
+在摇摆不定的世界里面随波逐流，可是当他想起曾经所幻想的星空的时候，发现，自己那空着的心充足了起来。
+
+曾经他以为死亡就是最终的归属，死亡都不去惧怕还...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Log2022-05-16</title>
+    <link href="http://localhost:4000/posts/Log2022-5-16/" rel="alternate" type="text/html" title="Log2022-05-16" />
+    <published>2022-05-16T01:19:00+08:00</published>
+  
+    <updated>2022-05-16T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-16/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-16/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-16" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-16
+
+首先今天说错话了啊，觉得需要问的问题。
+
+直接问poc上面有没有特殊案例，有的话事大了。哈哈
+
+不知道你想要的是什么。
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -141,100 +238,6 @@
 没有紧迫感啊，我觉得不行。
 
 今天有紧迫感，所以专注了很久，确实有产出效果。
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-10</title>
-    <link href="http://localhost:4000/posts/Log2022-5-10/" rel="alternate" type="text/html" title="Log2022-05-10" />
-    <published>2022-05-10T01:19:00+08:00</published>
-  
-    <updated>2022-05-10T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-10/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-10/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-10" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-10
-
-昨天中午在公司打了乒乓球，发现打球有两种。
-
-一种是处于自己掌控之内的球，一种是掌控之外的球。
-
-掌控之内的球需要自己小心翼翼去维护，因为知道自己一定赢，不愿意让其产生不可控的因素
-
-可以掌控外的球是自己无法维护的，越是小心越是出错，那么就需要自己去“浪”了。
-
-掌控之外的球有点难打啊，但是掌控之外的球才是我想要打的球不是吗？
-
-自己对时间的把控也多了点东西。
-
-安啦安啦
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-10</title>
-    <link href="http://localhost:4000/posts/Log2022-5-10-2/" rel="alternate" type="text/html" title="Log2022-05-10" />
-    <published>2022-05-10T01:19:00+08:00</published>
-  
-    <updated>2022-05-10T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-10-2/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-10-2/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-10" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-10
-
-累了，困了。
-
-大爷打球还真厉害。我竟然打不过。
-
-需要自己去仔细梳理一下一些原因及道理了
 
     </summary>
   
