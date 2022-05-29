@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-19T23:01:32+08:00</updated>
+  <updated>2022-05-29T22:50:30+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,63 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-29</title>
+    <link href="http://localhost:4000/posts/Log2022-5-29/" rel="alternate" type="text/html" title="Log2022-05-29" />
+    <published>2022-05-29T01:19:00+08:00</published>
+  
+    <updated>2022-05-29T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-29/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-29/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-29" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-29
+
+其实时间是一个很快的东西，但是这个世界是无限大的，想要去了解这个世界是一个有难度的问题。所以需要有取舍。
+
+回顾一下这周的工作状态和经历吧
+
+怎么说呢，首先我知道我是一个什么样的人，想要什么东西的人。但是行动和思想却不相同。也会常常迷惘
+
+但是这周的工作令我很是失望，我不知道做什么，我需要沟通，加强沟通.但是现在确实逃避沟通。
+
+心理舒适区还没有走出来，
+
+我不希望在已知领域里面得心应手,我需要尝试,去规划,去尝试.
+
+但是现在的表现却是在自己的领域里面瞎琢磨,没有去想着如何改进其他东西和精力。
+
+也就是没有总结和经验
+
+先说最近的事情吧
+
+今天打篮球，自己知道应该怎么做才是最好的，但是我却在实际行动中使用老的经验，没有突破性的成长.这个就是存在的矛盾点.还有,没有尝试去突破自己的体力极限,而是那么的无力的打假赛.现实中哪有什么东西有这么多次的尝试机会。
+...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -193,49 +250,6 @@
 感觉自己有点虚啊，21和17个不多啊，太久没有锻炼了。
 
 这些天去称了体重，发现自己才126多斤，有点瘦啊。锻炼搞起来。
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-12</title>
-    <link href="http://localhost:4000/posts/Log2022-5-12/" rel="alternate" type="text/html" title="Log2022-05-12" />
-    <published>2022-05-12T01:19:00+08:00</published>
-  
-    <updated>2022-05-12T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-12/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-12/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-12" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-12
-
-训练需要提上日程了。
-
-什么是最好的状态，清空不需要的东西。
-
-时光洪流
 
     </summary>
   
