@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-30T22:20:13+08:00</updated>
+  <updated>2022-05-31T06:20:13+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -72,6 +72,57 @@
 
 每日典读
 人们一旦开始说谎，就再也不知道如何停止了
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Log2022-05-30</title>
+    <link href="http://localhost:4000/posts/Log2022-5-30-2/" rel="alternate" type="text/html" title="Log2022-05-30" />
+    <published>2022-05-30T01:19:00+08:00</published>
+  
+    <updated>2022-05-30T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-30-2/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-30-2/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-30" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-30
+
+今天睡觉，他喵的舍友竟然没有关灯。11点多睡觉，4点多就起来了，实在是困啊。
+
+还好睡到6点就起床了。
+
+任性记录一下，早上做了keep上的一个前驱头部直的训练。发现脖子的问题还挺多的。是该好好锻炼一下了、
+
+好像剧烈运动之后的后遗症都是第三天才会出现，浑身酸痛。
+
+番茄钟的作用是把自己拉回现实，知道自己能做多少的事情
+
+每日典读
+
+秋日薄暮，用菊花煮竹叶青，人与海棠俱醉.–林清玄
 
     </summary>
   
@@ -223,49 +274,6 @@
 在摇摆不定的世界里面随波逐流，可是当他想起曾经所幻想的星空的时候，发现，自己那空着的心充足了起来。
 
 曾经他以为死亡就是最终的归属，死亡都不去惧怕还...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-16</title>
-    <link href="http://localhost:4000/posts/Log2022-5-16/" rel="alternate" type="text/html" title="Log2022-05-16" />
-    <published>2022-05-16T01:19:00+08:00</published>
-  
-    <updated>2022-05-16T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-16/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-16/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-16" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-16
-
-首先今天说错话了啊，觉得需要问的问题。
-
-直接问poc上面有没有特殊案例，有的话事大了。哈哈
-
-不知道你想要的是什么。
-
     </summary>
   
 
