@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-05-29T22:55:03+08:00</updated>
+  <updated>2022-05-30T22:20:13+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,66 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-05-30</title>
+    <link href="http://localhost:4000/posts/Log2022-5-30/" rel="alternate" type="text/html" title="Log2022-05-30" />
+    <published>2022-05-30T01:19:00+08:00</published>
+  
+    <updated>2022-05-30T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-5-30/</id>
+    <content src="http://localhost:4000/posts/Log2022-5-30/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-5-30" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-5-30
+
+最近天气有点闷热啊，晚上比较难睡着。
+
+今天早上起的还算早。还好。
+
+对于自己的今天，感觉还好，确实让自己陷入一种繁忙中了。
+
+番茄钟没有利用起来。投入却没有产出。
+
+奖励自己一下，今天中午吃饭没有看手机。也算是一个进步吧。
+
+感觉自己又点虚啊。不过还好，朝着目标一步一步前进了。
+
+今日复盘
+
+今天中午睡觉的时候，没有做到躺下不去思考，但是有这种意识，也做到了。需要制定一个规则才行。
+
+其实做事情，准备工作需要占时间，才能很好的安排下去
+
+全力去做一件事情，哪怕可以空出时间来做别的，但是那件事情肯定有思考空间.不应该等待后面的时间补充.
+
+每日典读
+人们一旦开始说谎，就再也不知道如何停止了
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -205,51 +265,6 @@
 直接问poc上面有没有特殊案例，有的话事大了。哈哈
 
 不知道你想要的是什么。
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-15</title>
-    <link href="http://localhost:4000/posts/Log2022-5-15/" rel="alternate" type="text/html" title="Log2022-05-15" />
-    <published>2022-05-15T01:19:00+08:00</published>
-  
-    <updated>2022-05-15T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-15/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-15/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-15" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-15
-
-太久没有运动了啊。和舍友挑战仰卧起坐，第一次21个，第二个17个。周五搞的，周六周日两天腰都很痛。/(ㄒoㄒ)/~~
-
-唉，没什么胃口啊。但是感觉还是有点饿的。
-
-感觉自己有点虚啊，21和17个不多啊，太久没有锻炼了。
-
-这些天去称了体重，发现自己才126多斤，有点瘦啊。锻炼搞起来。
 
     </summary>
   
