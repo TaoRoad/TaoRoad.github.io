@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-06-04T21:27:07+08:00</updated>
+  <updated>2022-06-05T22:50:46+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,57 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-06-5</title>
+    <link href="http://localhost:4000/posts/Log2022-6-5/" rel="alternate" type="text/html" title="Log2022-06-5" />
+    <published>2022-06-05T01:19:00+08:00</published>
+  
+    <updated>2022-06-05T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-6-5/</id>
+    <content src="http://localhost:4000/posts/Log2022-6-5/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-6-5" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-6-5
+
+今天有点浮躁啊，看书的时间虽然多了，但是还是没有能静下心去看。机械式看和记笔记，没有什么思考。
+
+我有个同事离职了，和他呆的时间比较久，每天下班最痛苦的事情莫过于每次和他一起回去，他都每天都和他女朋友打电话。回去也打。现在他回去了，回西安去挖煤了。
+
+我的学历竟然连挖煤的资格都没有，需要重点一本，唉。
+
+羡慕他们的爱情。
+
+今天也算是看了一天的书了，感觉还行吧，但是任务却没有做。得熬夜了。
+
+每日典读
+
+是啊，可叹她刹那的光荣，早枝头零落留不住东风。————莎士比亚《第十二夜》
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -224,57 +275,6 @@
 一直以来，我都有着成为头羊的机会，但是不知道为什么，心里很是抗拒。
 
 大学的军训期间，日常相处中，只需要自己站出来，或者说自己应该站出来，但是自己没有，即使有极少数...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-05-31</title>
-    <link href="http://localhost:4000/posts/Log2022-5-31/" rel="alternate" type="text/html" title="Log2022-05-31" />
-    <published>2022-05-31T01:19:00+08:00</published>
-  
-    <updated>2022-05-31T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-5-31/</id>
-    <content src="http://localhost:4000/posts/Log2022-5-31/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-5-31" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-5-31
-
-今天有点累啊
-
-尝试过才知道，永远不会有完美的准备，总会有存在一些差异。所作的只能是收集，不要气馁。
-
-今天，在研究，不知道自己做什么。
-
-每日典读
-
-吱扭的一声响，像一根针划过我的心，怎么那么不舒服。
-
-六一儿童节
-
-提前祝你六一儿童节快乐了
-
     </summary>
   
 
