@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>鲸岛</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-06-06T23:32:51+08:00</updated>
+  <updated>2022-06-07T23:32:03+08:00</updated>
   <author>
     <name>TaoRoad</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,55 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Log2022-06-7</title>
+    <link href="http://localhost:4000/posts/Log2022-6-7/" rel="alternate" type="text/html" title="Log2022-06-7" />
+    <published>2022-06-07T01:19:00+08:00</published>
+  
+    <updated>2022-06-07T01:19:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Log2022-6-7/</id>
+    <content src="http://localhost:4000/posts/Log2022-6-7/" />
+    <author>
+      <name>TaoRoad</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Log2022-6-7" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Log2022-6-7
+
+今天看了一下qq世界，感觉对世界很是失望
+
+但是好像找到了一种，东西。一个叫做构造。
+
+我以前是太关注结果，想要一步到位。现在想想确实不现实。
+
+我发现了，人生也得需要这样的路径去探索才行。
+
+每日典读
+
+草木有本心，何求美人折！
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -209,67 +258,6 @@
 每日典读
 
 对他来说，爱情是一种甘心屈从于对方的意愿和控制的热望。委身与对方就如同投降的士兵一样，必须首席按缴械。因此，自己没了防备，他便止不住担心那致命的一击何时降临。————米兰*昆德拉《生命不能承受之轻》
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Log2022-06-2</title>
-    <link href="http://localhost:4000/posts/Log2022-6-2/" rel="alternate" type="text/html" title="Log2022-06-2" />
-    <published>2022-06-02T01:19:00+08:00</published>
-  
-    <updated>2022-06-02T01:19:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/Log2022-6-2/</id>
-    <content src="http://localhost:4000/posts/Log2022-6-2/" />
-    <author>
-      <name>TaoRoad</name>
-    </author>
-
-  
-    
-    <category term="Log" />
-    
-    <category term="Log2022-6-2" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Log2022-6-2
-
-好像打开了什么样的一种奇怪的东西。
-
-人间清醒是一种状态，明白自己需要什么东西。
-
-最近状态
-
-改变真的很难不得不说，特别是心里还抗拒着的情况。
-
-不过最近的情况还算可以。早上5，6点起床，晚上也12点前睡觉。
-
-6-2
-
-6-2号，一个同事已经邀请了我好几周去打羽毛球了，好像都下雨。昨天没有下，我还是给拒绝了。😔
-
-每日典读
-
-苦人的懒是努力而落了空的结果。 ————老舍《骆驼祥子》
-
-我舍友是延安的
-
-经常谈论国家的“大事”，忧国忧民😂。
-
-看到这么一句话：当阳光下看到一只蟑螂的时候，说明，黑暗之处已经容不下他们了。
 
     </summary>
   
